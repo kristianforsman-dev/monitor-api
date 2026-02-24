@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "monitor-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f15a46d4-17c7-41c6-8e09-2fa351c38a00",
+			"database_name": "monitor-api-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
